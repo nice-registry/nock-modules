@@ -2,7 +2,7 @@
 
 # nock Modules
 
-> a list of javascript modules related to [nock](http://ghub.io/nock)
+> a list of 156 javascript modules that extend or depend on [nock](http://ghub.io/nock)
 
 ## See Also
 

@@ -1,9 +1,9 @@
 {
-  "name": "github-api-modules",
+  "name": "nock-modules",
   "version": "1.0.0",
   "description": "a list of javascript modules that extend or depend on nock",
   "main": "index.js",
-  "repository": "https://github.com/zeke/nock-modules",
+  "repository": "https://github.com/nice-registry/nock-modules",
   "author": "zeke",
   "license": "MIT",
   "scripts": {

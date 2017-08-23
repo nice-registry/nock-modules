@@ -4,11 +4,8 @@
 
 > a list of 185 javascript modules that extend or depend on [nock](http://ghub.io/nock)
 
-## See Also
-
-- [github-api-modules](https://github.com/nice-registry/github-api-modules)
-- [pull-request-modules](https://github.com/nice-registry/pull-request-modules)
-- [http-modules](https://github.com/nice-registry/http-modules)
+Find more datasets like this at 
+[nice-registry/about](https://github.com/nice-registry/about#datasets).
 
 ## How?
 
